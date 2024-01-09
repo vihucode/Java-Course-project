@@ -1,0 +1,41 @@
+[
+  {
+    "name": "John Doe",
+    "degree": "Tieto- ja sähkötekniikan tohtoriohjelma, lisensiaatin tutkinto",
+    "orientation": "Tietoliikennetekniikka",
+    "studentNumber": "123456",
+    "credits": 10,
+    "coursesDone": {
+      "Tutkimusetiikka II": {
+        "coursename": "Tutkimusetiikka II",
+        "grade": 3,
+        "credits": 2,
+        "date": "2022-05-06"
+      },
+      "Academic Writing": {
+        "coursename": "Academic Writing",
+        "grade": 4,
+        "credits": 2,
+        "date": "2022-05-13"
+      },
+      "Tutkimusprosessin hallinta tohtoriopinnoissa": {
+        "coursename": "Tutkimusprosessin hallinta tohtoriopinnoissa",
+        "grade": 2,
+        "credits": 3,
+        "date": "2022-05-04"
+      },
+      "Tutkimusetiikka I (online kurssi)": {
+        "coursename": "Tutkimusetiikka I (online kurssi)",
+        "grade": 2,
+        "credits": 1,
+        "date": "2022-12-22"
+      },
+      "Conducting a Systematic Literature Review": {
+        "coursename": "Conducting a Systematic Literature Review",
+        "grade": 5,
+        "credits": 2,
+        "date": "2023-05-11"
+      }
+    }
+  }
+]
